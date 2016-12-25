@@ -17,8 +17,8 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 ##Results
 
 ###Accuracy
-![accuracy](Test Accuracy.png)
+![acc](Test Accuracy.png)
 ###Single MRI Scan Image Test
-![accuracy](Test Single.png)
+![acc](Test Single.png)
 ###Multiple MRI Scan Image Test
-![accuracy](Test Multiple.png)
+![acc](Test Multiple.png)
