@@ -2,8 +2,8 @@
 
 Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) that are either a single scan or tile of multiple scans. TensorFlow for Poets: [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0)
 
-![el](glioblastoma/single/Z.jpg)
-![el](glioblastoma/multiple/images.jpg)
+![imageOne](glioblastoma/single/Z.jpg)
+![imageTwo](glioblastoma/multiple/images.jpg)
 
 ##Requirements
 
