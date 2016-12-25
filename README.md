@@ -14,5 +14,11 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 1. Start the docker image `docker run -it -v ~/projects/dump/tf_files/:/tf_files/ gcr.io/tensorflow/tensorflow:latest-devel`
 2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
 
+##Results
 
-
+###Accuracy
+![accuracy](Test Accuracy.png)
+###Single MRI Scan Image Test
+![accuracy](Test Single.png)
+###Multiple MRI Scan Image Test
+![accuracy](Test Multiple.png)
