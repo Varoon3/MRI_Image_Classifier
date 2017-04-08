@@ -20,6 +20,6 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 
 [acc](Test Accuracy.png)
 ###Single MRI Scan Image Test
-[acc](Test Single.png)
+[acc](MRI_Image_Classifier/Test Single.png)
 ###Multiple MRI Scan Image Test
 [acc](Test Multiple.png)
