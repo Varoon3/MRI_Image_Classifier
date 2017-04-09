@@ -5,21 +5,21 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 ![imageOne](glioblastoma/single/Z.jpg)
 ![imageTwo](glioblastoma/multiple/images.jpg)
 
-##Requirements
+## Requirements
 
 * [docker](https://www.docker.com/products/docker-toolbox)
 
-##Usage 
+## Usage 
 
 1. Start the docker image `docker run -it -v ~/projects/dump/tf_files/:/tf_files/ gcr.io/tensorflow/tensorflow:latest-devel`
 2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
 
-##Results
+## Results
 
-###Accuracy
+## Accuracy
 
 ![acc](Test Accuracy.png)
 ###Single MRI Scan Image Test
-(Test Single (Re-Upload JPG).jpg)
+![acc](Test Single (Re-Upload JPG).jpg)
 ###Multiple MRI Scan Image Test
 [acc](Test Multiple.png)
