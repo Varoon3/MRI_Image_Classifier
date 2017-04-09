@@ -27,7 +27,7 @@ Multiple MRI Scan Image Test
 
 ## Accuracy
 
-![acc](Test_Accuracy.png)
+![acc](results/Test_Accuracy.png)
 
 
 
