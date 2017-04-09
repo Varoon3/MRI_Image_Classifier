@@ -16,15 +16,18 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 
 ## Results
 
+Single MRI Scan Image Test
+
 ![acc](results/Test_Single.png)
 
 Multiple MRI Scan Image Test
 
-![acc](MRI_Image_Classifier/Test Multiple.png)
+![acc](results/Test_Multiple.png)
+
 
 ## Accuracy
 
-![acc](Test Accuracy.png)
+![acc](Test_Accuracy.png)
 
-Single MRI Scan Image Test
+
 
