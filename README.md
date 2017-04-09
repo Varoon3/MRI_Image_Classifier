@@ -16,7 +16,7 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 
 ## Results
 
-![acc](Test Single (Re-Upload JPG).jpg)
+![acc](results/Test_Single.png)
 
 Multiple MRI Scan Image Test
 
