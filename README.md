@@ -15,11 +15,12 @@ Use this classifier to label images taken with Magnetic Resonance Imaging (MRI) 
 2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
 
 ## Results
+![acc](Test Single (Re-Upload JPG).jpg)
+###Multiple MRI Scan Image Test
+![acc](Test Multiple.png)
 
 ## Accuracy
 
 ![acc](Test Accuracy.png)
 ###Single MRI Scan Image Test
-![acc](Test Single (Re-Upload JPG).jpg)
-###Multiple MRI Scan Image Test
-[acc](Test Multiple.png)
+
